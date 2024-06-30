@@ -1,0 +1,10 @@
+pandas
+numpy
+datetime
+obd
+time
+csv
+os
+groq
+json
+python-dotenv
